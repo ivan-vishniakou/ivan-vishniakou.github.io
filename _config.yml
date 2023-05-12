@@ -43,10 +43,10 @@ plugins:
 #remote_theme: ivan-vishniakou/minima
 
 minima:
-  social_links:
+  - social_links:
     - { platform: github,  user_url: "https://github.com/ivan-vishniakou" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/ivan-vishniakou-9335a917a/" }
-  favicon:
+  - favicon:
     path: "favicon.ico"
 
 # Exclude from processing.
