@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Ivan Vishniakou
-email: ivanvishniakou+work@gmail.com
+author:
+  email: ivanvishniakou+work@gmail.com
 description: I use this page to host my publications, portfolio, and occasionaly post notes. Best way to reach me is by email or message on Linkedin.
 
 #  Write an awesome description for your new site here. You can edit this
