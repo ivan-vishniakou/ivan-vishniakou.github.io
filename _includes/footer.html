@@ -4,15 +4,13 @@
   <div class="wrapper">
      <h2>Ivan Vishniakou</h2>
     <div class="footer-col-wrapper">
-      <div class="footer-col">
-        <ul class="contact-list">
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-        </ul>
-          <div class="social-links">
+      <div class="footer-col footer-col-1">
+        <p><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+        <div class="social-links">
               {%- include social.html -%}
-          </div>
+        </div>
       </div>
-      <div class="footer-col">
+      <div class="footer-col footer-col-2">
         <p>{{ site.description | escape }}</p>
       </div>
     </div>
