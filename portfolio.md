@@ -11,7 +11,10 @@ Brief descriptions of my projects. For publicaitons go [here](/publications).
     {% if post.url %}
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
         <p>{{post.excerpt}}</p>
-        
+        {% if post.content > post.excerpt.size %}
+		<p><a href="{{ post.url }}">(more...)</a></p>
+		{% endif %}
+		<p></p>
     {% endif %}
   {% endfor %}
 </div>
