@@ -4,8 +4,7 @@ title: "Portfolio"
 permalink: /portfolio
 ---
 
-
-<p>Posts in category "portfolio" are:</p>
+Brief descriptions of my projects. For publicaitons go [here](/publications) 
 
 <div>
   {% for post in site.categories.portfolio %}
