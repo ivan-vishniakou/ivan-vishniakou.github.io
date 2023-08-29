@@ -8,4 +8,4 @@ permalink: /
 
 # Hi there
 
-You found my page, welcome! I am using it to host my list of [publications](/publications), [portfolio](/portfolio) and occasionaly post notes.
+You discovered my page, welcome! I am using it to host my list of [publications](/publications), [portfolio](/portfolio) and occasionaly post notes.
