@@ -32,6 +32,9 @@ layout: base
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
+            {% if post.content.size > post.excerpt.size %}
+                <p><a href="{{ post.url }}">(more...)</a></p>
+            {% endif %}
         {%- endif -%}
       </li>
       {%- endfor -%}

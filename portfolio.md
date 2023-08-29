@@ -4,7 +4,7 @@ title: "Portfolio"
 permalink: /portfolio
 ---
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-Brief descriptions of my projects. For publicaitons go [here](/publications).
+Brief descriptions of some of my projects. For complete list of publications go [here](/publications).
 
 <ul class="post-list">
   {% for post in site.categories.portfolio %}
