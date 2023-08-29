@@ -4,7 +4,8 @@ title: "Publications"
 permalink: /publications
 ---
 
-*Last updated: August 2023*
+*Last updated: August 2023*<br>
+[Google Scholar](https://scholar.google.de/citations?user=nQ--cbQAAAAJ&hl=en)
 
 ## Papers
 
@@ -42,3 +43,10 @@ Ivan Vishniakou, Santosh Thoduka, Paul G. Plöger, Johannes D. Seelig “Versati
 Method and system for generating a desired light distribution when passing through a diffuser [DE102018108628A1](https://patents.google.com/patent/DE102018108628A1/en)
 
 Method and illumination apparatus of the adaptive optics in reflection microscopy [WO2021204663A1](https://patents.google.com/patent/WO2021204663A1/en?oq=WO2021%2f204663A1)
+
+
+## Theses
+
+PhD Thesis ["Machine learning approaches for adaptive optics in microscopy"](https://drive.google.com/file/d/1VPJNm1883KuJmIjIY-pB5rFeWmkSrijl/view), supervised by Prof. Dr. Matthias Hullin, University of Bonn 2022
+
+Master Thesis ["Machine learning approaches for light scattering control"](https://drive.google.com/file/d/13TAZMOkg-2PolRg0LCuYp_wukQmoxGa4/view), supervised by Prof. Dr. Paul G. Plöger and Prof. Dr. Alexander Asteroth, Bonn-Rhein-Sieg University of Applied Sciences 2019 
