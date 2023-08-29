@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications
 ---
 
-*Last updated: May 2023*
+*Last updated: August 2023*
 
 ## Papers
 
@@ -21,6 +21,8 @@ Ivan Vishniakou, Paul G. Plöger, Johannes D. Seelig “Virtual reality for anim
 Alex Turpin\*, Ivan Vishniakou\*, Johannes D. Seelig “Light scattering control in transmission and reflection with neural networks”, [Optics express, 2018](https://opg.optica.org/oe/fulltext.cfm?uri=oe-26-23-30911&id=401143), *\*equal contribution*
 
 ## Conferences
+
+Ivan Vishniakou, Johannes D. Seelig “Differentiable Optimization for Inverse Problems in Adaptive Optics and Object Tracking” Optica Imaging Congress 2023
 
 Ivan Vishniakou, Johannes D. Seelig “Differentiable Adaptive Optics and Light Shaping in Two-Photon Microscopy” Optica Biophotonics Congress: Optics in the Life Sciences 2023
 
