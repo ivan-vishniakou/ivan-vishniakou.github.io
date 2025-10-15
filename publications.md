@@ -9,6 +9,8 @@ permalink: /publications
 
 ## Papers
 
+Flores-Valle, A., Vishniakou, I., & Seelig, J. D. (2025). Dynamics of glia and neurons regulate homeostatic rest, sleep and feeding behavior in Drosophila. [Nature neuroscience, 1-15](https://www.nature.com/articles/s41593-025-01942-1)
+
 Ivan Vishniakou, Johannes D. Seelig “Differentiable optimization of the Debye-Wolf integral for light shaping and adaptive optics in two-photon microscopy”, [Optics Express, 2023](https://opg.optica.org/oe/viewmedia.cfm?uri=oe-31-6-9526&html=true)
 
 Ivan Vishniakou, Johannes D. Seelig “Differentiable model-based adaptive optics for two-photon microscopy”, [Optics Express, 2021](https://opg.optica.org/oe/fulltext.cfm?uri=oe-29-14-21418&id=452707)
