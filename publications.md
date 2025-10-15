@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications
 ---
 
-*Last updated: August 2023*<br>
+*Last updated: October 2025*<br>
 [Google Scholar](https://scholar.google.de/citations?user=nQ--cbQAAAAJ&hl=en)
 
 ## Papers
